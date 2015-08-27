@@ -1,4 +1,4 @@
-FROM nickistre/centos-lamp:6.6
+FROM nickistre/centos-lamp-xdebug:6.6
 MAINTAINER Nicholas Istre <nicholas.istre@e-hps.com>
 
 # Install wp-cli
