@@ -1,4 +1,4 @@
-FROM nickistre/ubuntu-lamp:14.04
+FROM nickistre/ubuntu-lamp-xdebug:14.04
 MAINTAINER Nicholas Istre <nicholas.istre@e-hps.com>
 
 # Install wp-cli
