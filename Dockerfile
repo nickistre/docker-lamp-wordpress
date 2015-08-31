@@ -1,4 +1,4 @@
-FROM nickistre/centos-lamp:6.6
+FROM nickistre/ubuntu-lamp:14.04
 MAINTAINER Nicholas Istre <nicholas.istre@e-hps.com>
 
 # Install wp-cli
